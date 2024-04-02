@@ -1,4 +1,4 @@
-# Random Number Generator
+# Random Number Generator Using Python
 
 This Python script generates a random number between 1 and 100 using Python's `random` module.
 
