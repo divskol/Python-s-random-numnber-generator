@@ -19,7 +19,7 @@ The provided Python script does the following:
 
 1. It imports the `random` module, which provides functions for generating random numbers.
 2. It defines a function `generate_random_number()` which does the following:
-   - Uses `random.randint(1, 100)` to generate a random integer between 1 and 100.
+   - Uses `random.randint(1, 100)` to generate a random integer between 1 and 100(Optional).
    - Returns the generated random number.
 3. It includes a check `if __name__ == "__main__":` to ensure that the following code block is only executed when the script is run directly, not when it's imported as a module into another script.
 4. Inside the `if` block, it calls the `generate_random_number()` function to generate a random number and assigns it to the variable `random_number`.
