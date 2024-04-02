@@ -8,7 +8,7 @@ This Python script generates a random number between 1 and 100 using Python's `r
 2. Clone this repository or download the `random_number_generator.py` file.
 3. Run the script using Python:
 
-
+```bash
 python random_number_generator.py
 
 
@@ -26,4 +26,4 @@ The provided Python script does the following:
 5. It prints the generated random number to the console using `print("Random number:", random_number)`.
 
 This script is a simple demonstration of how to generate random numbers in Python using the `random` module.
-```bash
+
